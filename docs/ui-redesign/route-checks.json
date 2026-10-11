@@ -1,0 +1,631 @@
+{
+  "browser": "Chromium",
+  "sizes": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "name": "tablet",
+      "width": 834,
+      "height": 1112
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844
+    }
+  ],
+  "results": [
+    {
+      "phase": "draft",
+      "screen": "family-overview",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "family-create",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "family-edit",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "travelers",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "traveler-create",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "traveler-profile",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "traveler-edit",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "requests",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "request-create",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "request-detail",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "request-edit",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "matching-empty",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "catalogue",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "companion-overview",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "companion-create",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "companion-profile",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "companion-edit",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "admin",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "role-selection",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "travelers-empty",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "requests-empty",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "family-overview",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "family-create",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "family-edit",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "travelers",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "traveler-create",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "traveler-profile",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "traveler-edit",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "requests",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "request-create",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "request-detail",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "request-edit",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "matching-empty",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "catalogue",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "companion-overview",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "companion-create",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "companion-profile",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "companion-edit",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "admin",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "role-selection",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "travelers-empty",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "requests-empty",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "family-overview",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "family-create",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "family-edit",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "travelers",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "traveler-create",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "traveler-profile",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "traveler-edit",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "requests",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "request-create",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "request-detail",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "request-edit",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "matching-empty",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "catalogue",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "companion-overview",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "companion-create",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "companion-profile",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "companion-edit",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "admin",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "role-selection",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "travelers-empty",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "draft",
+      "screen": "requests-empty",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "active",
+      "screen": "booking-family-active",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "active",
+      "screen": "booking-companion-active",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "active",
+      "screen": "matching-populated",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "active",
+      "screen": "companion-assigned",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "active",
+      "screen": "kyc-submitted",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "active",
+      "screen": "admin-review",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "active",
+      "screen": "booking-family-active",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "active",
+      "screen": "booking-companion-active",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "active",
+      "screen": "matching-populated",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "active",
+      "screen": "companion-assigned",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "active",
+      "screen": "kyc-submitted",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "active",
+      "screen": "admin-review",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "active",
+      "screen": "booking-family-active",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "active",
+      "screen": "booking-companion-active",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "active",
+      "screen": "matching-populated",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "active",
+      "screen": "companion-assigned",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "active",
+      "screen": "kyc-submitted",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "active",
+      "screen": "admin-review",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "completed",
+      "screen": "booking-family-completed",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "completed",
+      "screen": "booking-companion-completed",
+      "viewport": "desktop",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "phase": "completed",
+      "screen": "booking-family-completed",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "completed",
+      "screen": "booking-companion-completed",
+      "viewport": "tablet",
+      "width": 834,
+      "passed": true
+    },
+    {
+      "phase": "completed",
+      "screen": "booking-family-completed",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "phase": "completed",
+      "screen": "booking-companion-completed",
+      "viewport": "mobile",
+      "width": 390,
+      "passed": true
+    }
+  ]
+}

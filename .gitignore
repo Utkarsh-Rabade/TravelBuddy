@@ -1,15 +1,19 @@
 # Dependencies
 node_modules/
-/package-lock.json
 /yarn.lock
 /pnpm-lock.yaml
 # Environment variables
 .env
 .env.*
+!.env.example
 # Build outputs
 /dist/
 /build/
 /.out/
+/.next/
+/playwright-report/
+/test-results/
+*.tsbuildinfo
 # Logs
 *.log
 npm-debug.log*

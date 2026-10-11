@@ -1,0 +1,36 @@
+version: '3.8'
+services:
+  supabase:
+    image: supabase/supabase:latest
+    container_name: supabase
+    ports:
+      - "54321:54321"  # Supabase Studio
+      - "54322:54322"  # Supabase API (optional)
+      - "54323:54323"  # Supabase Realtime
+      - "54324:54324"  # Supabase Storage
+    environment:
+      - POSTGRES_PASSWORD=postgres
+      - SUPERBASE_SECRET=A\ super\ secret\ key\ for\ signing\ JWTs
+      - SUPERBASE_JWT_SECRET=A\ super\ secret\ key\ for\ signing\ JWTs
+      - DATABASE_URL=postgresql://postgres:postgres@db:5432/postgres
+      - DB_HOST=db
+      - DB_PORT=5432
+      - DB_USER=postgres
+      - DB_PASSWORD=postgres
+      - DB_NAME=postgres
+    volumes:
+      - supabase-data:/var/lib/supabase
+  db:
+    image: postgis/postgis:15-3.3
+    container_name: supabase-db
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_DB=postgres
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+volumes:
+  supabase-data:
+  postgres-data:
